@@ -1,13 +1,29 @@
 
-<img align='right' src='https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif'>
+# Hi 👋, I am **Praneeth Shetty**!!<br>
 
-### 💻\<Hello World!!\>💻
+## I Like to Mess Around With
+- 🎮 Game Development
+- 💻 Computer Graphics
+- ⏲️ Awesome Algorithms
+- 🥇 Competitve Programming
 
-## I am **Praneeth Shetty**!!<br>
-Trying to visualize the world with 1's and 0's.
 
+## Love Playing Games?? Try some of my (noob dev's) games 👇 (No Installation Required, Directly Play on any Device)
+
+#### - Panchtatva<br>
+[<img height='250' src="https://user-images.githubusercontent.com/64432063/156187115-cd0a0446-902a-4586-ba96-48fd7ddac0fa.png">](https://ganimtron.itch.io/panchatatva)
+
+#### - SurviveThis<br>
+[<img height='250' src="https://user-images.githubusercontent.com/64432063/156187930-06034346-f5d2-4e03-93f6-b56359260dad.png">](https://ganimtron.itch.io/survivethis)
+
+
+## Lets Have a Talk 🗨️
 
 <a href='mailto:praneethshetty10@gmail.com'><img src='https://simpleicons.org/icons/gmail.svg' height='40'></a>
-[<img height='40' align='left' src='https://simpleicons.org/icons/linkedin.svg'>](https://www.linkedin.com/in/praneeth-shetty-6b0892202/)
-[<img height='40' align='left' src='https://simpleicons.org/icons/youtube.svg'>](https://www.youtube.com/channel/UCqmjz897ENq1ySddSkvtUNg)
-[<img height='40' align='left' src='https://simpleicons.org/icons/twitter.svg'>](https://twitter.com/ganimtron_10)
+&nbsp;
+[<img height='40' src='https://simpleicons.org/icons/linkedin.svg'>](https://www.linkedin.com/in/praneeth-shetty-6b0892202/)
+&nbsp;
+[<img height='40' src='https://simpleicons.org/icons/twitter.svg'>](https://twitter.com/ganimtron_10)
+&nbsp;
+[<img height='40' src='https://simpleicons.org/icons/youtube.svg'>](https://www.youtube.com/channel/UCqmjz897ENq1ySddSkvtUNg)
+&nbsp;
