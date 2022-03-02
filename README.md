@@ -14,7 +14,7 @@
 [<img height='250' src="https://user-images.githubusercontent.com/64432063/156187115-cd0a0446-902a-4586-ba96-48fd7ddac0fa.png">](https://ganimtron.itch.io/panchatatva)
 
 #### - Rapid_Roll_Clone<br>
-[<img height='250' src="https://user-images.githubusercontent.com/64432063/156349296-4601cf8e-f089-4cb9-86a5-5a9ea7bb7287.png">](ganimtron-10.github.io/rapid_roll_clone/)
+[<img height='250' src="https://user-images.githubusercontent.com/64432063/156349296-4601cf8e-f089-4cb9-86a5-5a9ea7bb7287.png">](https://ganimtron-10.github.io/Rapid_Roll_Clone/)
 
 #### - SurviveThis<br>
 [<img height='250' src="https://user-images.githubusercontent.com/64432063/156187930-06034346-f5d2-4e03-93f6-b56359260dad.png">](https://ganimtron.itch.io/survivethis)
