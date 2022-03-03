@@ -11,12 +11,15 @@
 ## Love Playing Games?? Try some of my (noob dev's) games 👇 (No Installation Required, Directly Play on any Device)
 
 #### - Panchtatva<br>
+Basic 2D Platformer game with 2 levels and 2 boses created using Godot <br><br>
 [<img height='250' src="https://user-images.githubusercontent.com/64432063/156187115-cd0a0446-902a-4586-ba96-48fd7ddac0fa.png">](https://ganimtron.itch.io/panchatatva)
 
 #### - Rapid_Roll_Clone<br>
-[<img height='250' src="https://user-images.githubusercontent.com/64432063/156349296-4601cf8e-f089-4cb9-86a5-5a9ea7bb7287.png">](https://ganimtron-10.github.io/Rapid_Roll_Clone/)
+Clone of the Classic Rapid Roll Game made using p5.js <br><br>
+[<img height='400' src="https://user-images.githubusercontent.com/64432063/156349296-4601cf8e-f089-4cb9-86a5-5a9ea7bb7287.png">](https://ganimtron-10.github.io/Rapid_Roll_Clone/)
 
 #### - SurviveThis<br>
+Infinite Survival 2D platformer game created using Godot <br><br>
 [<img height='250' src="https://user-images.githubusercontent.com/64432063/156187930-06034346-f5d2-4e03-93f6-b56359260dad.png">](https://ganimtron.itch.io/survivethis)
 
 
