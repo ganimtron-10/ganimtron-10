@@ -8,7 +8,7 @@
 - 🥇 Competitve Programming
 
 
-## Love Playing Games?? Try some of my (noob dev's) games 👇 (No Installation Required, Directly Play on any Device)
+## Love Playing Games?? Try some of my games 👇 (No Installation Required, Directly Play on any Device)
 
 #### - Panchtatva<br>
 Basic 2D Platformer game with 2 levels and 2 boses created using Godot <br><br>
