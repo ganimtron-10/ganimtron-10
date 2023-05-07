@@ -1,14 +1,13 @@
 
 # Hi 👋, I am **Praneeth Shetty**!!<br>
 
-## I Like to Mess Around With
+## I am currently messing around with
 - 🎮 Game Development
-- 💻 Computer Graphics
-- ⏲️ Awesome Algorithms
-- 🥇 Competitve Programming
+- ⛓️ Blockchain & Web3
+- 💻 Data Structure & Algorithm
 
 
-## Love Playing Games?? Try some of my games 👇 (No Installation Required, Directly Play on any Device)
+<!-- ## Love Playing Games?? Try some of my games 👇 (No Installation Required, Directly Play on any Device)
 
 #### - Panchtatva<br>
 Basic 2D Platformer game with 2 levels and 2 boses created using Godot <br><br>
@@ -20,7 +19,7 @@ Clone of the Classic Rapid Roll Game made using p5.js <br><br>
 
 #### - SurviveThis<br>
 Infinite Survival 2D platformer game created using Godot <br><br>
-[<img height='250' src="https://user-images.githubusercontent.com/64432063/156187930-06034346-f5d2-4e03-93f6-b56359260dad.png">](https://ganimtron.itch.io/survivethis)
+[<img height='250' src="https://user-images.githubusercontent.com/64432063/156187930-06034346-f5d2-4e03-93f6-b56359260dad.png">](https://ganimtron.itch.io/survivethis) -->
 
 
 ## Lets Have a Talk 🗨️
