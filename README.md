@@ -1,11 +1,10 @@
 
-# Hi 👋, I am **Praneeth Shetty**!!<br>
+# Hi 👋, I am **Praneeth Shetty**!! <img align='right' height=300 src='https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif'>
 
 ## Currently messing around with
 - 🎮 Game Development
 - ⛓️ Blockchain & Web3
 - 💻 Data Structure & Algorithm
-
 
 <!-- ## Love Playing Games?? Try some of my games 👇 (No Installation Required, Directly Play on any Device)
 
@@ -32,6 +31,8 @@ Infinite Survival 2D platformer game created using Godot <br><br>
 &nbsp;
 [<img height='40' src='https://simpleicons.org/icons/youtube.svg'>](https://www.youtube.com/channel/UCqmjz897ENq1ySddSkvtUNg)
 &nbsp;
+
+<br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganimtron-10&show_icons=true&theme=dark&locale=en&layout=compact" alt="ganimtron-10" /></p>
 
