@@ -1,7 +1,7 @@
 
 # Hi 👋, I am **Praneeth Shetty**!!<br>
 
-## I am currently messing around with
+## Currently messing around with
 - 🎮 Game Development
 - ⛓️ Blockchain & Web3
 - 💻 Data Structure & Algorithm
