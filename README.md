@@ -1,7 +1,7 @@
 
 # Hi 👋, I am **Praneeth Shetty**!! <img align='right' height=300 src='https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif'>
 
-## Currently messing around with
+## Currently Exploring
 - 🎮 Game Development
 - ⛓️ Blockchain & Web3
 - 💻 Data Structure & Algorithm
