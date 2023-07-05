@@ -32,6 +32,7 @@ Infinite Survival 2D platformer game created using Godot <br><br>
 [<img height='40' src='https://simpleicons.org/icons/youtube.svg'>](https://www.youtube.com/channel/UCqmjz897ENq1ySddSkvtUNg)
 &nbsp;
 
+<!--
 <br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganimtron-10&show_icons=true&theme=dark&locale=en&layout=compact" alt="ganimtron-10" /></p>
@@ -39,3 +40,4 @@ Infinite Survival 2D platformer game created using Godot <br><br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ganimtron-10&show_icons=true&theme=dark&locale=en" alt="ganimtron-10" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ganimtron-10&theme=dark" alt="ganimtron-10" /></p>
+-->
