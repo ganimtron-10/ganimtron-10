@@ -27,7 +27,7 @@ Infinite Survival 2D platformer game created using Godot <br><br>
 &nbsp;
 [<img height='40' src='https://simpleicons.org/icons/linkedin.svg'>](https://www.linkedin.com/in/praneeth-shetty-6b0892202/)
 &nbsp;
-[<img height='40' src='https://simpleicons.org/icons/twitter.svg'>](https://twitter.com/ganimtron_10)
+[<img height='40' src='https://simpleicons.org/icons/x.svg'>](https://twitter.com/ganimtron_10)
 &nbsp;
 [<img height='40' src='https://simpleicons.org/icons/youtube.svg'>](https://www.youtube.com/channel/UCqmjz897ENq1ySddSkvtUNg)
 &nbsp;
