@@ -1,12 +1,12 @@
 
 # Hi 👋, I am **Praneeth Shetty**!! <img align='right' height=300 src='https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif'>
 
-## Currently Exploring
+<!-- ## Currently Exploring
 - 🎮 Game Development
 - ⛓️ Blockchain & Web3
 - 💻 Data Structure & Algorithm
 
-<!-- ## Love Playing Games?? Try some of my games 👇 (No Installation Required, Directly Play on any Device)
+## Love Playing Games?? Try some of my games 👇 (No Installation Required, Directly Play on any Device)
 
 #### - Panchtatva<br>
 Basic 2D Platformer game with 2 levels and 2 boses created using Godot <br><br>
