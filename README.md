@@ -1,4 +1,4 @@
-# Hi 👋 I am ![Praneeth Shetty](https://ganimtron-10.github.io/Portfolio/)
+# Hi 👋 I am [Praneeth Shetty](https://ganimtron-10.github.io/Portfolio/)
 
 <table align="center">
 <tr border="none">
